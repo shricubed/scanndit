@@ -1,3 +1,2 @@
 # scanndit
-Better Reddit search engine
-(in progress)
+Discord bot for easily searching reddit
